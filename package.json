@@ -1,0 +1,17 @@
+{
+  "name": "iot_led",
+  "version": "1.0.0",
+  "description": "IOT with LED",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sweetalert": "^2.1.2",
+    "johnny-five": "latest",
+    "express": "latest",
+    "socket.io": "^2.2.0"
+  },
+  "author": "Areed Ahmed A",
+  "license": "ISC"
+}
